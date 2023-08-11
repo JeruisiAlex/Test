@@ -1,2 +1,4 @@
 using;
-public class cjytest 
+public class cjytest
+
+    int adf = 99;
